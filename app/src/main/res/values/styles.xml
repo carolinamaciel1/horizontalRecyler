@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="outlineBorder" parent="TextAppearance.AppCompat.Button">
+        <item name="android:background">#00FF00</item>
+    </style>
+</resources>
